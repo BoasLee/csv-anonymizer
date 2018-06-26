@@ -1,2 +1,2 @@
 # csv-anonymizer
-This program will anonymize any csv file.  
+This program anonymizse any csv file.  
